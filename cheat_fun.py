@@ -5,10 +5,11 @@
 # Date            Programmer              Descriptions of Change
 # ====         ================           ======================
 # 28-Jan-22     Ana-Maria Gore               Original code
+# 28-Jan-22     Ana-Maria Gore             description changes
 
 def cheat(exercise):
     """
-    CHEAT FUNCTION returns solution of the exercises from the course Programming in Psychological Science (2022) in week 1
+    CHEAT FUNCTION returns the solutions to the Week 1 Python exercises from the Programming in Psychological Science (2022) course
     """
     if int(exercise) == 1:
         print("import numpy as np")
