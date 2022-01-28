@@ -9,7 +9,7 @@
 
 def cheat(exercise):
     """
-    CHEAT FUNCTION returns the solutions to the Week 1 Python exercises from the Programming in Psychological Science (2022) course
+    CHEAT FUNCTION returns the solutions to the Week 1 Python exercises from the PIPS (2022) course
     """
     if int(exercise) == 1:
         print("import numpy as np")
